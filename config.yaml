@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=schema.json
+controller:
+  serial_settings:
+    port: /dev/serial/by-id/usb-Thorlabs_APT_Filter_Flipper_37007189-if00-port0
+transport: 
+  ioc:
+    pv_prefix: MY-DEVICE-PREFIX
+  # rest:
+  #   port: 8080
