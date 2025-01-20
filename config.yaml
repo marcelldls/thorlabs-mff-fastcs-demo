@@ -5,5 +5,7 @@ controller:
 transport: 
   ioc:
     pv_prefix: MY-DEVICE-PREFIX
+  gui:
+    title: Thorlabs-MFF
   # rest:
   #   port: 8080
